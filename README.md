@@ -25,9 +25,10 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Ana
 
 ---
 
-##  Over Mij & Match met de Banenafspraak
-Ik ben momenteel op zoek naar een uitdagende rol als **Junior Data Analist** of **BI Specialist**. 
-* **Doelgroepregister:** Ik sta officieel geregistreerd in het Doelgroepregister (Wajong).
-* **Voordelen werkgever:** Voor een toekomstige werkgever breng ik financieel aantrekkelijke voordelen mee, waaronder de **no-riskpolis** van het UWV en mogelijkheden voor **loonkostensubsidie**. Dit verlaagt het werkgeversrisico tot nul, terwijl u een gemotiveerde dataspecialist in huis haalt!
+##  Over Mij
+Ik ben op zoek naar een uitdagende rol als **Junior Data Analist** of **BI Specialist**.
+
+* **Status:** Indicatie Banenafspraak (Doelgroepregister)
+* **Dit verlaagt het werkgeversrisico tot nul, terwijl u een gemotiveerde dataspecialist in huis haalt!
 
 📧 **Interesse in een kennismaking of mijn volledige CV? Neem gerust contact met mij op via een bericht!**
