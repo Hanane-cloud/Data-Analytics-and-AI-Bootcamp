@@ -1,6 +1,5 @@
 # 📊 Data Analytics & AI Bootcamp Portfolio
 
-# Data Analytics & AI Bootcamp Portfolio
 
 Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Analytics bootcamp, heb ik deze repository ingericht om mijn vaardigheden te demonstreren. Ik ben gespecialiseerd in het opschonen van ruwe data en het omzetten hiervan naar interactieve dashboards.
 
