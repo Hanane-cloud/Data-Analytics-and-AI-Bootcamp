@@ -1,7 +1,8 @@
 # 📊 Data Analytics & AI Bootcamp Portfolio
 
 
-Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Analytics bootcamp, heb ik deze repository ingericht om mijn vaardigheden te demonstreren. Ik ben gespecialiseerd in het opschonen van ruwe data en het omzetten hiervan naar interactieve dashboards.
+Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & Analytics bootcamp, heb ik deze repository ingericht om mijn vaardigheden te demonstreren. Ik ben gespecialiseerd in het opschonen van ruwe data en het omzetten hiervan naar interactieve dashboards en het vervolgens analyseren van deze gegevens om te komen tot waardevolle insights en concrete business recommendations and/or solutions.
+
 
 ## Technische Skills
 * **Data Cleaning & ETL:** Power Query & Excel Advanced (data opschonen, transformeren, ontdubbelen en modelleren)
@@ -15,7 +16,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Ana
 
 ### 1. Slurpini Vivino Export Dashboard (Power BI & Data Cleaning, ETL)
 * **Bestand:** `Slurpini Vivino Export Dashboard Fin...`
-* **Omschrijving:** In dit project heb ik een export van Vivino-wijngegevens geanalyseerd. Met Power Query heb ik intensieve **data cleaning** toegepast om de ruwe, vervuilde data te structureren. Daarna heb ik in Power BI een visueel dashboard gebouwd om trends in wijnbeoordelingen, prijzen en regio's inzichtelijk te maken.
+* **Omschrijving:** In dit project heb ik een export van Vivino-wijngegevens geanalyseerd. Met Power Query heb ik intensieve **data cleaning** toegepast om de ruwe, vervuilde data te structureren. Daarna heb ik in Power BI een visueel dashboard gebouwd om trends in wijnbeoordelingen, prijzen en regio's inzichtelijk te maken. Vervolgens zijn daar business recommendations uit ontstaan.
 
 ### 2. Case Data Power BI (Power BI & DAX, ETL)
 * **Bestand:** `Case DataPower BI Hanane Final.pbix`
