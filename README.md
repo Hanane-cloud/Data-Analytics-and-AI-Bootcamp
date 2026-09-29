@@ -2,14 +2,14 @@
 
 Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Analytics bootcamp, heb ik deze repository ingericht om mijn vaardigheden te demonstreren. Ik ben gespecialiseerd in het omzetten van ruwe data naar interactieve en actiegerichte dashboards met behulp van de Microsoft BI-stack.
 
-## 🛠️ Technische Skills
+##  Technische Skills
 * **Datapreparatie & ETL:** Power Query (opschonen, transformeren en modelleren van data)
 * **Datacommando's & Logica:** Basic DAX (Calculated Columns, Measures)
 * **Datavisualisatie:** Power BI, Excel (Draaitabellen, Grafieken, Dynamische Dashboards)
 
 ---
 
-## 📊 Uitgelichte Projecten
+##  Uitgelichte Projecten
 
 ### 1. Slurpini Vivino Export Dashboard (Power BI)
 * **Bestand:** `Slurpini Vivino Export Dashboard Fin...`
@@ -25,7 +25,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data Ana
 
 ---
 
-## 💼 Over Mij & Match met de Banenafspraak
+##  Over Mij & Match met de Banenafspraak
 Ik ben momenteel op zoek naar een uitdagende rol als **Junior Data Analist** of **BI Specialist**. 
 * **Doelgroepregister:** Ik sta officieel geregistreerd in het Doelgroepregister (Wajong).
 * **Voordelen werkgever:** Voor een toekomstige werkgever breng ik financieel aantrekkelijke voordelen mee, waaronder de **no-riskpolis** van het UWV en mogelijkheden voor **loonkostensubsidie**. Dit verlaagt het werkgeversrisico tot nul, terwijl u een gemotiveerde dataspecialist in huis haalt!
