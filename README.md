@@ -26,6 +26,9 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 <img width="466" height="261" alt="Screenshot 2026-10-02 112543" src="https://github.com/user-attachments/assets/223416b3-ef05-4c40-b94e-357a5e8d5dd4" />
 
+<img width="743" height="496" alt="Screenshot 2026-10-02 112008" src="https://github.com/user-attachments/assets/97882a52-d11c-403f-b5c0-6d56a1ff325b" />
+
+
 
 
 
