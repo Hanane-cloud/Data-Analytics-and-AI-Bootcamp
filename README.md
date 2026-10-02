@@ -40,7 +40,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 * **Omschrijving:** Een uitgebreide business case waarin data uit verschillende bronnen is gecombineerd. Hierin heb ik met basic DAX-formules en datamodellering klantspecifieke statistieken en KPI's berekend om bedrijfsprestaties live te monitoren.
 
-* <img width="1051" height="590" alt="Screenshot 2026-10-02 112736" src="https://github.com/user-attachments/assets/dda24676-030f-4b11-90f6-25f9ec8d8014" />
+<img width="1051" height="590" alt="Screenshot 2026-10-02 112736" src="https://github.com/user-attachments/assets/dda24676-030f-4b11-90f6-25f9ec8d8014" />
 
 <img width="1056" height="581" alt="Screenshot 2026-10-02 112801" src="https://github.com/user-attachments/assets/aeec113c-0a28-4cb1-9226-c3821e6429e5" />
 
