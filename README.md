@@ -15,7 +15,8 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 ## Uitgelichte Projecten
 
 ### 1. Slurpini Vivino Export Dashboard (Power BI & Data Cleaning, ETL)
-* **Bestand:** [Slurpini Vivino Export Dashboard Fin.pbix](Slurpini%20Vivino%20Export%20Dashboard%20Fin.pbix)
+* **Bestand:** [Slurpini Vivino Export Dashboard Fin..pbix](Slurpini%20Vivino%20Export%20Dashboard%20Fin..pbix)
+
 
 
 * **Omschrijving:** In dit project heb ik een export van Vivino-wijngegevens geanalyseerd. Met Power Query heb ik intensieve **data cleaning** toegepast om de ruwe, vervuilde data te structureren. Daarna heb ik in Power BI een visueel dashboard gebouwd om trends in wijnbeoordelingen, prijzen en regio's inzichtelijk te maken. Vervolgens zijn daar business recommendations uit ontstaan.
