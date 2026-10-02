@@ -50,7 +50,8 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 
 ### 3. Dashboard Brand Performance Analyse (Excel Advanced)
-* **Bestand:** `Dashboard Brand Performance Analy...`
+* **Bestand:** [Dashboard Brand Performance Analysis.xlsx](Dashboard%20Brand%20Performance%20Analysis.xlsx)
+
 * **Omschrijving:** Een geavanceerd Excel-project waarin merkprestaties centraal staan. Door gebruik te maken van **Excel Advanced** technieken (zoals X.ZOEKEN/XLOOKUP en geneste formules) en interactieve draaitabellen, is er een overzichtelijk dashboard gecreëerd voor directie-rapportages.
 
 * <img width="910" height="432" alt="Screenshot 2026-10-02 111352" src="https://github.com/user-attachments/assets/ea617dae-e857-4224-bdad-ceffc147a469" />
