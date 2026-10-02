@@ -23,7 +23,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
   
 <img width="1048" height="588" alt="Screenshot 2026-10-02 111849" src="https://github.com/user-attachments/assets/7164e0b2-f944-4139-81c7-d2c871cb3f99" />
 
-<img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
+* Popularity by Grapevariety <img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
 
 <img width="460" height="475" alt="Screenshot 2026-10-02 112341" src="https://github.com/user-attachments/assets/7a4913e1-0fba-4601-a920-b06b9ac063c7" />
 
