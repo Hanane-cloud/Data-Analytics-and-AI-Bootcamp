@@ -18,6 +18,20 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 * **Bestand:** `Slurpini Vivino Export Dashboard Fin...`
 * **Omschrijving:** In dit project heb ik een export van Vivino-wijngegevens geanalyseerd. Met Power Query heb ik intensieve **data cleaning** toegepast om de ruwe, vervuilde data te structureren. Daarna heb ik in Power BI een visueel dashboard gebouwd om trends in wijnbeoordelingen, prijzen en regio's inzichtelijk te maken. Vervolgens zijn daar business recommendations uit ontstaan.
 
+* <img width="1048" height="588" alt="Screenshot 2026-10-02 111849" src="https://github.com/user-attachments/assets/7164e0b2-f944-4139-81c7-d2c871cb3f99" />
+
+<img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
+
+<img width="460" height="475" alt="Screenshot 2026-10-02 112341" src="https://github.com/user-attachments/assets/7a4913e1-0fba-4601-a920-b06b9ac063c7" />
+
+<img width="466" height="261" alt="Screenshot 2026-10-02 112543" src="https://github.com/user-attachments/assets/223416b3-ef05-4c40-b94e-357a5e8d5dd4" />
+
+
+
+
+
+
+
 ### 2. Case Data Power BI (Power BI & DAX, ETL)
 * **Bestand:** `Case DataPower BI Hanane Final.pbix`
 * **Omschrijving:** Een uitgebreide business case waarin data uit verschillende bronnen is gecombineerd. Hierin heb ik met basic DAX-formules en datamodellering klantspecifieke statistieken en KPI's berekend om bedrijfsprestaties live te monitoren.
