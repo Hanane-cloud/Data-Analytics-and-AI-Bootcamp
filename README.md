@@ -20,8 +20,8 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 
 * **Omschrijving:** In dit project heb ik een export van Vivino-wijngegevens geanalyseerd. Met Power Query heb ik intensieve **data cleaning** toegepast om de ruwe, vervuilde data te structureren. Daarna heb ik in Power BI een visueel dashboard gebouwd om trends in wijnbeoordelingen, prijzen en regio's inzichtelijk te maken. Vervolgens zijn daar business recommendations uit ontstaan.
-
-* <img width="1048" height="588" alt="Screenshot 2026-10-02 111849" src="https://github.com/user-attachments/assets/7164e0b2-f944-4139-81c7-d2c871cb3f99" />
+  
+<img width="1048" height="588" alt="Screenshot 2026-10-02 111849" src="https://github.com/user-attachments/assets/7164e0b2-f944-4139-81c7-d2c871cb3f99" />
 
 <img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
 
