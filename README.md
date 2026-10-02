@@ -23,13 +23,13 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
   
 <img width="1048" height="588" alt="Screenshot 2026-10-02 111849" src="https://github.com/user-attachments/assets/7164e0b2-f944-4139-81c7-d2c871cb3f99" />
 
-* Popularity by Grapevariety <img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
+* Price-Rating relationship <img width="465" height="522" alt="Screenshot 2026-10-02 112440" src="https://github.com/user-attachments/assets/58e2b566-701d-43de-a23d-8beced3f067e" />
 
-<img width="460" height="475" alt="Screenshot 2026-10-02 112341" src="https://github.com/user-attachments/assets/7a4913e1-0fba-4601-a920-b06b9ac063c7" />
+* Popularity by Grapevariety <img width="460" height="475" alt="Screenshot 2026-10-02 112341" src="https://github.com/user-attachments/assets/7a4913e1-0fba-4601-a920-b06b9ac063c7" />
 
-<img width="466" height="261" alt="Screenshot 2026-10-02 112543" src="https://github.com/user-attachments/assets/223416b3-ef05-4c40-b94e-357a5e8d5dd4" />
+* Recommendations <img width="466" height="261" alt="Screenshot 2026-10-02 112543" src="https://github.com/user-attachments/assets/223416b3-ef05-4c40-b94e-357a5e8d5dd4" />
 
-<img width="743" height="496" alt="Screenshot 2026-10-02 112008" src="https://github.com/user-attachments/assets/97882a52-d11c-403f-b5c0-6d56a1ff325b" />
+* KPI Overview <img width="743" height="496" alt="Screenshot 2026-10-02 112008" src="https://github.com/user-attachments/assets/97882a52-d11c-403f-b5c0-6d56a1ff325b" />
 
 
 
