@@ -16,7 +16,6 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 ## Uitgelichte Projecten
 
 ### 1. Slurpini Vivino Export Dashboard (Power BI & Data Cleaning, ETL)
-* **Bestand:** (file:///C:/Users/mselb/Downloads/Data%20Project%20Report%20Slurpini.pdf)
 
 
 
@@ -38,7 +37,6 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 
 ### 2. Case Data Power BI (Power BI & DAX, ETL)
-* **Bestand:** [Case DataPower BI Hanane Final.pbix](Case%20DataPower%20BI%20Hanane%20Final.pbix)
 
 * **Omschrijving:** Een uitgebreide business case waarin data uit verschillende bronnen is gecombineerd. Hierin heb ik met basic DAX-formules en datamodellering klantspecifieke statistieken en KPI's berekend om bedrijfsprestaties live te monitoren.
 
@@ -51,7 +49,6 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 
 ### 3. Dashboard Brand Performance Analyse (Excel Advanced)
-* **Bestand:** [Dashboard Brand Performance Analysis.xlsx](Dashboard%20Brand%20Performance%20Analysis.xlsx)
 
 * **Omschrijving:** Een geavanceerd Excel-project waarin merkprestaties centraal staan. Door gebruik te maken van **Excel Advanced** technieken (zoals X.ZOEKEN/XLOOKUP en geneste formules) en interactieve draaitabellen, is er een overzichtelijk dashboard gecreëerd voor directie-rapportages.
 
@@ -76,7 +73,7 @@ Ik ben op zoek naar een uitdagende rol als **Junior Data Analist** of **BI Speci
 
 Met mijn achtergrond in **Bedrijfskunde (Management, Economie & Recht)** (gespecialiseerd in *Kwaliteits- en Verandermanagement*) combineer ik een sterk bedrijfskundig inzicht met de technische skills uit mijn IT-bootcamp. Hierdoor kijk ik verder dan alleen de techniek: ik begrijp hoe data ingezet kan worden om bedrijfsprocessen te optimaliseren en kwaliteitsverbeteringen door te voeren. 
 
-Ik krijg energie van het opschonen van complexe datasets en het vertalen van die cijfers naar heldere, visuele dashboards in Power BI en Excel. Ik ben een proactieve leerder (momenteel bezig met SQL) en sla graag de brug tussen data en de business.
+Ik krijg energie van het opschonen van complexe datasets en het vertalen van die cijfers naar heldere, visuele dashboards in Power BI en Excel. Ik ben een proactieve leerder (momenteel bezig met SQL) en sla graag de brug tussen data en de business. Hierin leg ik tevens de focus op AI Ethics, Data Governance en de EU AI Act om dataprojecten compliant, ethisch en verantwoord in te richten.
 
 * **Status:** ![Indicatie Banenafspraak](https://shields.io) *(Geregistreerd in het Doelgroepregister)*
 
