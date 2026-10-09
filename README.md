@@ -60,6 +60,34 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 <img width="725" height="440" alt="Screenshot 2026-10-02 111546" src="https://github.com/user-attachments/assets/7621265d-4212-4bb0-9643-2f9d6deab412" />
 
+### 4. AI Ethics & Governance Analyserapport: De Toeslagenaffaire
+
+* **Omschrijving:** Een diepgaande governance-analyse van een van de meest impactvolle datacasussen binnen de Nederlandse overheid. In dit rapport heb ik de ethische risico's rondom algoritmische besluitvorming geëvalueerd en concrete verbeterprocessen ontworpen.
+
+
+#### Kernonderdelen van het project:
+- **Ethisch Raamwerk:** Toepassing van **Floridi’s ethische principes** (Beneficence, Non-maleficence, Autonomy, Justice, Explicability) om de risico's van geautomatiseerde systemen te toetsen.
+
+<img width="588" height="446" alt="Screenshot 2026-10-10 011521" src="https://github.com/user-attachments/assets/6b0c9e38-27ea-47ca-ba9e-5ba4401465e7" />
+
+- **Harm Assessment & GDPR Art. 22:** Een gedetailleerde impactanalyse van de risico's en opgelopen schade (**individual & societal harm**), direct getoetst aan **GDPR Artikel 22**. Hierin is geëvalueerd in hoeverre het systeem voldeed aan de wetgeving rondom geautomatiseerde besluitvorming en profilering, en hoe het recht van de burger op een menselijke blik (*human-in-the-loop*) is gewaarborgd.
+
+<img width="493" height="342" alt="Screenshot 2026-10-10 012204" src="https://github.com/user-attachments/assets/7390d787-ea23-4e75-bf39-f3c060893429" />
+
+
+- **Data Governance Matrix:** Ontwikkeling van een matrix die rollen, verantwoordelijkheden en escalatiepaden definieert om naleving van de **EU AI Act** te garanderen. Om blinde vlekken, institutionele silo's en automatiseringsvooroordelen te elimineren, stelt dit blauwdruk een onafhankelijke toezichtsketen in met expliciete escalatiemandaten.
+
+<img width="470" height="510" alt="Screenshot 2026-10-10 012226" src="https://github.com/user-attachments/assets/12fa24dc-c311-43e1-8c81-a6e24f428085" />
+
+- **Procesvisualisatie:** Het ontwerpen en visualiseren van geoptimaliseerde, transparante dataprocessen waarin menselijke controle (*human-in-the-loop*) centraal staat.
+
+<img width="622" height="267" alt="image" src="https://github.com/user-attachments/assets/b3ff39b8-2782-42d7-9406-d1f5e58157be" />
+
+<img width="646" height="290" alt="image" src="https://github.com/user-attachments/assets/14da4438-2886-49b6-8c35-7fae24021ca6" />
+
+
+
+
 
 
 
