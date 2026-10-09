@@ -85,6 +85,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 <img width="646" height="290" alt="image" src="https://github.com/user-attachments/assets/14da4438-2886-49b6-8c35-7fae24021ca6" />
 
+Voor een dieper inzicht in deze structuur kunt u alle details, sjablonen en uitgewerkte procedures verder bekijken in de bestanden die zijn toegevoegd aan de repository.
 
 
 
