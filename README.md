@@ -9,13 +9,14 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 * **Databases:** Basic SQL (data opvragen en filteren)
 * **Datacommando's & Logica:** Basic DAX (Calculated Columns, Measures)
 * **Datavisualisatie:** Power BI & Excel (Draaitabellen, Interactieve Dashboards, Slicers)
+* **AI & Data Governance:** Kennis van AI Ethics en verantwoorde data-architectuur.
 
 ---
 
 ## Uitgelichte Projecten
 
 ### 1. Slurpini Vivino Export Dashboard (Power BI & Data Cleaning, ETL)
-* **Bestand:** [Slurpini Vivino Export Dashboard Fin..pbix](Slurpini%20Vivino%20Export%20Dashboard%20Fin..pbix)
+* **Bestand:** (file:///C:/Users/mselb/Downloads/Data%20Project%20Report%20Slurpini.pdf)
 
 
 
