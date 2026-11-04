@@ -6,7 +6,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 ## Technische Skills
 * **Data Cleaning & ETL:** Power Query & Excel Advanced (data opschonen, transformeren, ontdubbelen en modelleren)
-* **Databases:** Basic SQL (data opvragen en filteren)
+* **Databases:** SQL 
 * **Datacommando's & Logica:** Basic DAX (Calculated Columns, Measures)
 * **Datavisualisatie:** Power BI & Excel (Draaitabellen, Interactieve Dashboards, Slicers)
 * **AI & Data Governance:** Kennis van AI Ethics en verantwoorde data-architectuur.
